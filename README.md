@@ -8,6 +8,8 @@ Os dados foram baixados da plataforma da Pubmed utilizando, como único critéri
 
 A busca resultou em 133 [resultados](https://pubmed.ncbi.nlm.nih.gov/?term=%22motoric%20cognitive%20risk%22%5BTitle%5D&sort=)
 
+Veja o notebook em:
+
 ---
 
 Por [Leonardo Zara](zara.leonardo@gmail.com)
